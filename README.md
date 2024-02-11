@@ -30,7 +30,7 @@ I'm a Front-End Developer deeply passionate about crafting engaging and high-per
 - [ProductiveHubExtension](https://github.com/stef4nvuckovic/ProductiveHubExtension) - A Chrome extension to boost productivity.
 
 ## 🎉 Fun Fact:
-I'm not only about codes and pixels, but I also love hitting the gym and volunteering!
+I'm not only about codes and pixels, I also love hitting the gym and volunteering!
 
 ![Me rn](https://media.giphy.com/media/26gJyULycKerDATfi/giphy.gif?cid=790b7611o3n7yuaac9l3fubxx5saa624r0icq53uexrjk8kc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
